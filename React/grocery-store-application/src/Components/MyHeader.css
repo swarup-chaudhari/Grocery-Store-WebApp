@@ -1,0 +1,11 @@
+.nav-link-custom {
+  color: white !important;
+  font-size: 16px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.nav-link-custom:hover {
+  color:goldenrod !important;
+  transform: translateY(-1px);
+}
